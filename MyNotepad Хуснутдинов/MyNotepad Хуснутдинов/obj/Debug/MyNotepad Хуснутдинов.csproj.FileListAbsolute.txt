@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\second\MyNotepad Хуснутдинов\MyNotepad Хуснутдинов\bin\Debug\MyNotepad Хуснутдинов.exe.config
+C:\Users\User\source\repos\second\MyNotepad Хуснутдинов\MyNotepad Хуснутдинов\bin\Debug\MyNotepad Хуснутдинов.exe
+C:\Users\User\source\repos\second\MyNotepad Хуснутдинов\MyNotepad Хуснутдинов\bin\Debug\MyNotepad Хуснутдинов.pdb
+C:\Users\User\source\repos\second\MyNotepad Хуснутдинов\MyNotepad Хуснутдинов\obj\Debug\MyNotepad Хуснутдинов.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\second\MyNotepad Хуснутдинов\MyNotepad Хуснутдинов\obj\Debug\MyNotepad_Хуснутдинов.Form1.resources
+C:\Users\User\source\repos\second\MyNotepad Хуснутдинов\MyNotepad Хуснутдинов\obj\Debug\MyNotepad_Хуснутдинов.Properties.Resources.resources
+C:\Users\User\source\repos\second\MyNotepad Хуснутдинов\MyNotepad Хуснутдинов\obj\Debug\MyNotepad Хуснутдинов.csproj.GenerateResource.cache
+C:\Users\User\source\repos\second\MyNotepad Хуснутдинов\MyNotepad Хуснутдинов\obj\Debug\MyNotepad Хуснутдинов.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\second\MyNotepad Хуснутдинов\MyNotepad Хуснутдинов\obj\Debug\MyNotepad Хуснутдинов.exe
+C:\Users\User\source\repos\second\MyNotepad Хуснутдинов\MyNotepad Хуснутдинов\obj\Debug\MyNotepad Хуснутдинов.pdb
