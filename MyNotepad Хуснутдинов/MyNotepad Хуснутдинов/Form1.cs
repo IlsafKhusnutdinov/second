@@ -21,5 +21,10 @@ namespace MyNotepad_Хуснутдинов
         {
             Close();
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
